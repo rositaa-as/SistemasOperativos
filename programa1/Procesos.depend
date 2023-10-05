@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694122909 source:c:\users\avila\downloads\sistemas operativos\procesos\main.cpp
+	<bits/stdc++.h>
+	"proceso.h"
+	"lote.h"
+
+1694127034 c:\users\avila\downloads\sistemas operativos\procesos\proceso.h
+	<iostream>
+
+1694122798 c:\users\avila\downloads\sistemas operativos\procesos\lote.h
+	<iostream>
+	<vector>
+	"proceso.h"
+
